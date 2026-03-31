@@ -16,7 +16,6 @@ data-driven recommendations to improve revenue.
 - Databricks (Data Processing)
 - SQL (Data Analysis)
 - Microsoft Excel (Data Visualization)
-- Power BI / Tableau (Optional Dashboards)
 - Miro (Planning & Architecture)
 
   ## 📂 Project Structure
